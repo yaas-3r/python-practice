@@ -1,2 +1,3 @@
 # python-practice
-Assignment
+Name : Yaasir Mohammad
+Admission : 190375
